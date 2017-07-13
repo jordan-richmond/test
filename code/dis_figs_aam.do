@@ -17,6 +17,8 @@ clear
 set more off
 local geo zip5
 
+* BLAH BLHA
+
 
 * 1 Time Movers
 use ${clps}/new/`geo'/aam/kr_1mv_byaam_bycoh_mskd, clear
@@ -87,6 +89,7 @@ forval coh= 1982(1)1986 {
 	restore
 }
 }
+* BLAH BLAH
 
 * 3) What if people who move at younger ages are simply more likely to move again?
 * 		Drop 0 time movers, just collapse on aam
